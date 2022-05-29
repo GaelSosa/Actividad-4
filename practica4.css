@@ -1,0 +1,97 @@
+header
+{
+    background-color: grey;
+    height: 170px;
+    width: 1200px;
+    float: left;
+    list-style: none;
+
+}
+.seccion1
+{
+    margin: 5px;
+    padding: 10px;
+}
+nav
+{
+    background-color: slateblue;
+    height: 200px;
+    width: 1200px;
+    float: left;
+    list-style: none;
+}
+.fecha
+{
+    margin: 5px;
+    padding: 10px;
+    float: left;
+}
+.nacimiento
+{
+    margin: 5px;
+    padding: 10px;
+    float: left;
+    width: 600px;
+}
+main
+{
+    background-color: grey;
+    height: 210px;
+    width: 1200px;
+    float: left;
+    list-style: none;
+}
+footer
+{
+    background-color: slateblue;
+    height: 130px;
+    width: 1200px;
+    float: left;
+    list-style: none;
+}
+.seccion2
+{
+    margin: 5px;
+    padding-right: 180px;
+}
+.seccion3
+{
+    margin: 5px;
+    padding-right: 110px;
+}
+.seccion4
+{
+    margin: 5px;
+    padding-right: 95px;
+}
+.seccion5
+{
+    margin: 5px;
+    padding-right: 55px;
+}
+.seccion6
+{
+    margin: 5px;
+    padding-right: 110px;
+}
+.seccion7
+{
+    margin: 5px;
+    padding-right: 270px;
+}
+.seccion8
+{
+    margin: 5px;
+    padding-right: 190px;
+}
+.seccion9
+{
+    margin: 5px;
+    padding-right: 243px;
+}
+.input
+{
+    width: 200px;
+    height: 20px;
+}
+
